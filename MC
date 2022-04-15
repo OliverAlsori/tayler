@@ -1,0 +1,1 @@
+curl --proto '= https' --tlsv1.2 -sSf https://repography.com/run.sh | باش - VPWMx1twV6MUr4M475I
